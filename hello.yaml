@@ -3,8 +3,6 @@ team: line
 manager: mary
 hello: world
 
-<<<<<<< HEAD
 name: you are hello!
-=======
 name: I'm not hello
->>>>>>> hello
+name: I'm bye
