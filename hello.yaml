@@ -6,3 +6,4 @@ hello: world
 name: you are hello!
 name: I'm not hello
 name: I'm bye
+call: hello
