@@ -24,7 +24,7 @@ $ git reset --hard // If you want cancel the revert
 
 5. branch
 $ git branch (branch name)// Create branch
-$ git brach // Check brach list
+$ git branch // Check brach list
 $ git switch (branch name) // move to branch name
 $ git branch -d (branch name) // delete branch
 $ git branch -m (current branch name) (new branch name) // Change branch name
@@ -53,3 +53,4 @@ $ git fetch
 $ git switch -t origin/(branch name)
 
 $ git push origin --delete (remote branch)// delete remote branch
+$ git remote prune origin // update remote branch
